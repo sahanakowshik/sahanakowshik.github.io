@@ -30,18 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  - block: markdown
+    content:
+      title: 'News'
+      subtitle: ''
+      text: |-
+        **June 2024:** [**Our paper**](https://www.medrxiv.org/content/early/2024/03/26/2024.02.08.24302531) on using AI to identify etiologies contributing to dementia in individuals was accepted at Nature Medicine!
 
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
+        **September 2023** Joined the PhD program at BU CDS.
+
+        **February 2023:** Joined The Kolachalama Laboratory at the BU School of Medicine.
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
