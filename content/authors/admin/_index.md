@@ -50,18 +50,6 @@ interests:
   - Multimodal representation learning
   - Neuroimaging
 
-graduate coursework:
-  - MA582 Mathematical Statistics
-  - DS598 Introduction to Reinforcement Learning
-  - CS542 Machine Learning
-  - CS585 Image and Video Computing
-  - CS505 Natural Language Processing
-  - CS523 Deep Learning
-  - CS506 Computational tools for data science
-  - CS599 User-centric Systems for Data Science
-  - CS630 Graduate Algorithms
-  - CS611 Object-oriented Software Principles and Design in Java
-
 education:
   - area: PhD Data Science
     institution: Boston University
@@ -146,3 +134,15 @@ work:
 ## About Me
 
 I am a first year PhD student in the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) at Boston University. I am advised by Professor [Vijaya B. Kolachalama](https://vkola-lab.github.io). I hold a Master's degree in Computer Science from Boston University. Prior to joining BU, I completed my Bachelor's degree in Electronics and Communication Engineering at RV College of Engineering in Bengaluru, India. My research primarily focuses on multimodal representation learning and deep learning, with a particular interest in leveraging machine learning techniques to assess neurodegenerative disorders.
+
+**Graduate Coursework**:
+  - MA582 Mathematical Statistics
+  - DS598 Introduction to Reinforcement Learning
+  - CS542 Machine Learning
+  - CS585 Image and Video Computing
+  - CS505 Natural Language Processing
+  - CS523 Deep Learning
+  - CS506 Computational tools for data science
+  - CS599 User-centric Systems for Data Science
+  - CS630 Graduate Algorithms
+  - CS611 Object-oriented Software Principles and Design in Java
