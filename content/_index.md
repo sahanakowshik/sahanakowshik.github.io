@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -98,7 +98,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: showcase
+      view: compact
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
