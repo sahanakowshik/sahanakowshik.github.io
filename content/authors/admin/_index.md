@@ -90,7 +90,7 @@ work:
     company_url: 'https://vkola-lab.github.io'
     company_logo: ''
     date_start: 2023-02-01
-    date_end: '2023-08-31'
+    date_end: 2023-08-31
     summary: |2-
       Responsibilities include:
       - Utilizing Python’s pandas and sklearn libraries to efficiently process large volumes of non-imaging data from various cohorts to create a master dataset for training the model
@@ -101,4 +101,4 @@ work:
 ---
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first year PhD student at Boston University, Faculty of Computing & Data Sciences in the Kolachalama Laboratory. I am advised by Professor Vijaya B. Kolachalama, BU School of Medicine. I received my Master's degree in Computer Science from Boston University. Before joining BU, I received a Bachelor's degree in Electronics and Communication Engineering from RV College of Engineering, Bengaluru, India. My research interests fall under the umbrella of multimodal representation learning and deep learning. I am interested in applying machine learning methods for the assessment of neurodegenerative disorders. 
