@@ -97,7 +97,7 @@ work:
       - Working on developing an end to end transformer based pipeline for identifying different dementia etiologies using brain scan MRI and non-imaging data
       - Researching ways to improve the model performance by experimenting with different loss functions and utilizing different strategies to tackle the class imbalance problem
 
-
+---
 ## About Me
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
