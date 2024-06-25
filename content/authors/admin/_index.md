@@ -49,6 +49,18 @@ interests:
   - Deep Learning
   - Multimodal representation learning
 
+graduate coursework:
+  - MA582 Mathematical Statistics
+  - DS598 Introduction to Reinforcement Learning
+  - CS542 Machine Learning
+  - CS585 Image and Video Computing
+  - CS505 Natural Language Processing
+  - CS523 Deep Learning
+  - CS506 Computational tools for data science
+  - CS599 User-centric Systems for Data Science
+  - CS630 Graduate Algorithms
+  - CS611 Object-oriented Software Principles and Design in Java
+
 education:
   - area: PhD Data Science
     institution: Boston University
