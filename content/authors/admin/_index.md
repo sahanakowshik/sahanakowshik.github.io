@@ -48,6 +48,7 @@ interests:
   - Machine Learning
   - Deep Learning
   - Multimodal representation learning
+  - Neuroimaging
 
 graduate coursework:
   - MA582 Mathematical Statistics
@@ -113,4 +114,4 @@ work:
 ---
 ## About Me
 
-I am a first year PhD student in the Faculty of Computing and Data Sciences at Boston University. I am advised by Professor Vijaya B. Kolachalama, BU School of Medicine. I received my Master's degree in Computer Science from Boston University. Before joining BU, I received a Bachelor's degree in Electronics and Communication Engineering from RV College of Engineering, Bengaluru, India. My research interests fall under the umbrella of multimodal representation learning and deep learning. I am interested in applying machine learning methods for the assessment of neurodegenerative disorders. 
+I am a first year PhD student in the Faculty of Computing and Data Sciences at Boston University. I am advised by Professor Vijaya B. Kolachalama, BU School of Medicine. I received my Master's degree in Computer Science from Boston University. I hold a Master's degree in Computer Science from Boston University. Prior to this, I completed my Bachelor's degree in Electronics and Communication Engineering at RV College of Engineering in Bengaluru, India. My research primarily focuses on multimodal representation learning and deep learning, with a particular interest in leveraging machine learning techniques to assess neurodegenerative disorders.
