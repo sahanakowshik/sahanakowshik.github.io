@@ -45,6 +45,7 @@ publication_types:
 - article-journal
 publication: '*medRxiv*'
 doi: 10.1101/2024.02.08.24302531
+featured: true
 abstract: 'Differential diagnosis of dementia remains a challenge in neurology due
   to symptom overlap across etiologies, yet it is crucial for formulating early, personalized
   management strategies. Here, we present an AI model that harnesses a broad array
