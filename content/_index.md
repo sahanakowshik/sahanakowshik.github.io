@@ -73,7 +73,7 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
-  - block: markdown
+  - block: collection
     id: news
     content:
       title: News
