@@ -69,7 +69,7 @@ education:
     summary: |
       GPA: 3.81/4.0
 
-      Courses included:
+      Coursework:
       - MA582 Mathematical Statistics
       - DS598 Introduction to Reinforcement Learning
   - area: MS Computer Science
@@ -79,15 +79,16 @@ education:
     summary: |
       GPA: 3.93/4.0
 
-      Courses included:
-      - CS630 Graduate Algorithms
-      - CS611 Object-oriented Software Principles and Design in Java
+      Coursework:
+      - CS505 Natural Language Processing
+      - CS506 Computational tools for data science
+      - CS523 Deep Learning
       - CS542 Machine Learning
       - CS585 Image and Video Computing
-      - CS505 Natural Language Processing
-      - CS523 Deep Learning
-      - CS506 Computational tools for data science
       - CS599 User-centric Systems for Data Science
+      - CS611 Object-oriented Software Principles and Design in Java
+      - CS630 Graduate Algorithms
+
   - area: BE Electronics and Communication Engineering
     institution: RV College of Engineering
     date_start: 2017-07-01
@@ -95,8 +96,16 @@ education:
     summary: |
       GPA: 9.09/10.0
       
-      Courses included:
-      Object-oriented programming and Data structures using C++, Graph theory, DBMS, High-performance computing, Linear algebra, and probability theory, Applied partial differential equations, Discrete and integral transforms, Advanced linear algebra, Computer communication networks
+      Coursework:
+      - Object-oriented programming and Data structures using C++
+      - Graph theory
+      - DBMS
+      - High-performance computing
+      - Linear algebra and probability theory
+      - Applied partial differential equations
+      - Discrete and integral transforms
+      - Advanced linear algebra
+      - Computer communication networks
 work:
   - position: Research Fellow
     company_name: Boston University, Kolachalama Laboratory
@@ -109,6 +118,28 @@ work:
       - Utilizing Python’s pandas and sklearn libraries to efficiently process large volumes of non-imaging data from various cohorts to create a master dataset for training the model
       - Working on developing an end to end transformer based pipeline for identifying different dementia etiologies using brain scan MRI and non-imaging data
       - Researching ways to improve the model performance by experimenting with different loss functions and utilizing different strategies to tackle the class imbalance problem
+
+  - position: Machine Learning intern (Part-time)
+    company_name: BU Spark
+    company_url: 'https://www.bu.edu/spark/'
+    company_logo: ''
+    date_start: 2022-02-01
+    date_end: 2022-12-31
+    summary: |2-
+      Responsibilities include:
+      - Built a reliable machine learning framework using BERT backbone to recognize the semantic difference between mentions of race vs. mentions of color in non-racial terms in the media articles
+      - Extracted racial keywords from a sentence using attention analysis of the trained model’s hidden layers
+
+  - position: Embedded software development and QA intern
+    company_name: Mentor Graphics (now Siemens)
+    company_url: 'https://eda.sw.siemens.com/en-US/'
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: 2021-06-01
+    summary: |2-
+      Responsibilities include:
+      - Worked on development and testing of embedded Linux Flex operating system
+      - Automated the process of embedded testing using Unix test scripts and CI/CD tools like Jenkins and LAVA
    
 
 ---
