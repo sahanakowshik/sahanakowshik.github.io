@@ -1,8 +1,8 @@
 ---
 title: AI-based differential diagnosis of dementia etiologies on multimodal data
 authors:
-- Chonghua Xue
-- Sahana S. Kowshik
+- Chonghua Xue*
+- Sahana S. Kowshik*
 - Diala Lteif
 - Shreyas Puducheri
 - Varuna H. Jasodanand
@@ -45,6 +45,7 @@ publication_types:
 - article-journal
 publication: '*Nature Medicine*'
 doi: 10.1038/s41591-024-03118-z
+featured: true
 abstract: Differential diagnosis of dementia remains a challenge in neurology due
   to symptom overlap across etiologies, yet it is crucial for formulating early, personalized
   management strategies. Here, we present an artificial intelligence (AI) model that
@@ -69,4 +70,6 @@ abstract: Differential diagnosis of dementia remains a challenge in neurology du
 links:
 - name: URL
   url: https://doi.org/10.1038/s41591-024-03118-z
+- name: Code
+  url: https://github.com/vkola-lab/nmed2024/
 ---
