@@ -133,7 +133,7 @@ work:
 ---
 ## About Me
 
-I am a first year PhD student in the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) at Boston University. I am advised by Professor [Vijaya B. Kolachalama](https://vkola-lab.github.io). I hold a Master's degree in Computer Science from Boston University. Prior to joining BU, I completed my Bachelor's degree in Electronics and Communication Engineering at RV College of Engineering in Bengaluru, India. My research primarily focuses on multimodal representation learning and deep learning, with a particular interest in leveraging machine learning techniques to assess neurodegenerative disorders.
+I am a second year PhD student in the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) at Boston University. I am advised by Professor [Vijaya B. Kolachalama](https://vkola-lab.github.io). I hold a Master's degree in Computer Science from Boston University. Prior to joining BU, I completed my Bachelor's degree in Electronics and Communication Engineering at RV College of Engineering in Bengaluru, India. My research primarily focuses on multimodal representation learning and deep learning, with a particular interest in leveraging machine learning techniques to assess neurodegenerative disorders.
 
 <!-- **Graduate Coursework**:
   - CS505 Natural Language Processing
