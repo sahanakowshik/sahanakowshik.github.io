@@ -14,6 +14,7 @@ publication_types:
 - article-journal
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-025-62590-4
+featured: true
 abstract: Alzheimer’s disease (AD) diagnosis hinges on detecting amyloid beta (Aβ)
   plaques and neurofibrillary tau (τ) tangles, typically assessed using PET imaging.
   While accurate, these modalities are expensive and not widely accessible, limiting
