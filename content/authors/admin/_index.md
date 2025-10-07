@@ -45,10 +45,10 @@ profiles:
     url: https://orcid.org/0009-0006-9547-7638
 
 interests:
-  - Machine Learning
+  - Reinforcement Learning
+  - Large Language Models
+  - Natural Language Processing
   - Deep Learning
-  - Multimodal representation learning
-  - Neuroimaging
 
 education:
   - area: PhD Data Science
