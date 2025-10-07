@@ -133,7 +133,7 @@ work:
 ---
 ## About Me
 
-I am a second year PhD student in the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) at Boston University. I am advised by Dr. [Vijaya B. Kolachalama](https://vkola-lab.github.io). I hold a Master's degree in Computer Science from Boston University. Prior to joining BU, I completed my Bachelor's degree in Electronics and Communication Engineering at RV College of Engineering in Bengaluru, India. My research broadly focuses on post-training methods of Large Language Models (LLMs), with a current interest in leveraging LLMs to assess neurodegenerative disorders through Reinforcement Learning with Verifiable Rewards (RLVR).
+I am a third year PhD student in the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) at Boston University. I am advised by Dr. [Vijaya B. Kolachalama](https://vkola-lab.github.io). I hold a Master's degree in Computer Science from Boston University. Prior to joining BU, I completed my Bachelor's degree in Electronics and Communication Engineering at RV College of Engineering in Bengaluru, India. My research broadly focuses on post-training methods of Large Language Models (LLMs), with a current interest in leveraging LLMs to assess neurodegenerative disorders through Reinforcement Learning with Verifiable Rewards (RLVR).
 
 <!-- **Graduate Coursework**:
   - CS505 Natural Language Processing
