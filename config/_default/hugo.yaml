@@ -6,7 +6,7 @@
 # Website name
 title: Sahana Kowshik
 # Website URL
-baseURL: 'sahanakowshik.github.io/'
+baseURL: 'https://sahanakowshik.github.io/'
 
 ############################
 ## LANGUAGE
